@@ -1,2 +1,1 @@
-# cursor-trail-effect
-using js
+This project demonstrates a cursor trail effect using HTML, CSS, and JavaScript. The effect is created by animating a series of dots that follow the cursor's movement, giving the impression of a trailing effect.
